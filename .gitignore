@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+
+# Package files
+*.tgz
+
+# Test coverage
+coverage/
+
+npm-debug.log
+typings
+aot

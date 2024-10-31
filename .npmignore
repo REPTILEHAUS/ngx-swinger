@@ -1,0 +1,11 @@
+.git
+.gitignore
+.npmignore
+*.ts
+!*.d.ts
+.vscode
+node_modules
+src
+tsconfig.json
+tslint.json
+*.tgz
